@@ -47,27 +47,33 @@ cd password-generator-cli-python
 ```
 
 2. Run the program:
-main.py
+- main.py
+
+---
 
 🧪 Example Usage
-🔐 Password Generator
+- 🔐 Password Generator
 
-Enter password length: 10
-Include uppercase? (y/n): y
-Include numbers? (y/n): y
-Include symbols? (y/n): n
+* Enter password length: 10
+* Include uppercase? (y/n): y
+* Include numbers? (y/n): y
+* Include symbols? (y/n): n
 
-Generated Password: aB7kLm92Qp
+* Generated Password: aB7kLm92Qp
 
-Generate another password? (y/n): n
-Goodbye 👋
+* Generate another password? (y/n): n
+* Goodbye 👋
+
+---
 
 📋 Optional Feature: Copy to Clipboard
 Install dependency:
 ```
 pip install pyperclip
 ```
-The generated password will automatically be copied to your clipboard.
+* The generated password will automatically be copied to your clipboard.
+
+---
 
 🎯 Learning Outcomes
 This project helped me practice:
@@ -77,6 +83,8 @@ This project helped me practice:
 * Working with built-in libraries (random, string)
 * Writing clean and maintainable code
 * Building real-world CLI applications
+
+---
 
 📌 Future Improvements
 * Add GUI version (Tkinter / PyQt)
