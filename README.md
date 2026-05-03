@@ -33,7 +33,7 @@ This tool allows users to generate secure passwords based on their preferences, 
 ## 📂 Project Structure
 password-generator-cli-python/
 │
-├── password_generator.py
+├── main.py
 └── README.md
 
 ---
@@ -47,7 +47,7 @@ cd password-generator-cli-python
 ```
 
 2. Run the program:
-python password_generator.py
+main.py
 
 🧪 Example Usage
 🔐 Password Generator
